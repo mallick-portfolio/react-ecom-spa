@@ -1,0 +1,20 @@
+
+.productImg {
+  padding: 10px;
+  border-radius: 20px;
+}
+.productPrice {
+  margin-bottom: 0;
+}
+.productSeller {
+  margin: 10px 0;
+}
+.addBtn {
+  background: #ffe0b3;
+  border: 1px solid #95a0a7;
+  padding: 12px 0;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.0125em;
+  color: #0e161a;
+}

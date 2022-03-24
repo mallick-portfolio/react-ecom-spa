@@ -1,0 +1,25 @@
+.headerContainer {
+  background-color: #1c2b35;
+}
+.headerMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mainMenu ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+.mainMenu ul li {
+  margin-left: 35px;
+  padding: 25px 0;
+}
+.mainMenu ul li a {
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+  color: #ffffff;
+}

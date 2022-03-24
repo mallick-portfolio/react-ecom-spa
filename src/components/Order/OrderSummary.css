@@ -1,0 +1,41 @@
+.orderSummary {
+  height: 1000px;
+  position: static;
+  top: 0;
+  background: #ffe0b3;
+  padding-left: 30px;
+}
+.orderTitle {
+  font-size: 25px;
+  line-height: 30px;
+  color: #1c2b35;
+  padding: 20px 0;
+}
+.common {
+  margin: 20px 0;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+  color: #2a414f;
+}
+.grandTotal {
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
+}
+.cartBtn {
+  background: #ff3030;
+  border-radius: 4px;
+  margin: 5px 0;
+  border: 0;
+  width: 200px;
+  padding: 8px 0;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+  color: #ffffff;
+}
+.review {
+  background: #FF9900;;
+}
